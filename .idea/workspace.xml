@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e006c475-1cec-47db-b42a-91f685103dd1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kQ4uPfSuf0wInhpKkaUI30CzNp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pytest\apiFrame\utils" />
+      <recent name="E:\pytest\apiFrame" />
+      <recent name="E:\pytest\api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.all (1)">
+    <configuration name="all (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="apiFrame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../api/all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alltest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="apiFrame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alltest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="public" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="apiFrame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/public.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../api/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../api/tests/test_001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.all (1)" />
+        <item itemvalue="Python.alltest" />
+        <item itemvalue="Python.public" />
+        <item itemvalue="Python.all" />
+        <item itemvalue="Python.test_001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e006c475-1cec-47db-b42a-91f685103dd1" name="Default Changelist" comment="" />
+      <created>1606268891262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606268891262</updated>
+      <workItem from="1606268893749" duration="851000" />
+      <workItem from="1606463157189" duration="67581000" />
+      <workItem from="1606961738561" duration="2651000" />
+    </task>
+    <task id="LOCAL-00001" summary="pycharm">
+      <created>1606900090643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606900090648</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pycharm">
+      <created>1606900606627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606900606628</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pycharm">
+      <created>1606959290191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606959290193</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pycharm">
+      <created>1606959358483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606959358483</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pycharm">
+      <created>1606959956695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606959956696</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pycharm">
+      <created>1606960068267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606960068267</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pycharm">
+      <created>1606960163133</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606960163133</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pycharm">
+      <created>1606961240330</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606961240330</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pycharm">
+      <created>1606961354457</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606961354457</updated>
+    </task>
+    <task id="LOCAL-00010" summary="pycharm">
+      <created>1606963924143</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606963924143</updated>
+    </task>
+    <task id="LOCAL-00011" summary="pycharm">
+      <created>1606964205841</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606964205841</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pycharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="pycharm" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="195" key="#Notifications" timestamp="1606901458957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="457" y="195" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1606901458957" />
+    <state x="870" y="510" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606714077979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="870" y="510" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606714077979" />
+    <state x="670" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606803675896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606803675896" />
+    <state x="648" y="148" key="CommitChangelistDialog2" timestamp="1606964202417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="648" y="148" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606964202417" />
+    <state x="260" y="133" key="DiffContextDialog" timestamp="1606963860728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="133" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606963860728" />
+    <state x="475" y="318" width="443" height="470" key="FileChooserDialogImpl" timestamp="1606964681699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="475" y="318" width="443" height="470" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606964681699" />
+    <state x="919" y="490" width="373" height="171" key="Github.CreateGistDialog" timestamp="1606960670078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="919" y="490" width="373" height="171" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606960670078" />
+    <state x="619" y="279" width="581" height="208" key="Github.ShareDialog" timestamp="1606964534359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="279" width="581" height="208" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606964534359" />
+    <state x="911" y="295" key="Github.UntrackedFilesDialog" timestamp="1606964552505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="911" y="295" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606964552505" />
+    <state width="663" height="242" key="GridCell.Tab.0.bottom" timestamp="1606961701519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="663" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606961701519" />
+    <state width="663" height="242" key="GridCell.Tab.0.center" timestamp="1606961701518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="663" height="242" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606961701518" />
+    <state width="663" height="242" key="GridCell.Tab.0.left" timestamp="1606961701518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="663" height="242" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606961701518" />
+    <state width="663" height="242" key="GridCell.Tab.0.right" timestamp="1606961701518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="663" height="242" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606961701518" />
+    <state x="456" y="258" key="SettingsEditor" timestamp="1606959527756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="456" y="258" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606959527756" />
+    <state x="457" y="269" key="Vcs.Push.Dialog.v2" timestamp="1606964621047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="457" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606964621047" />
+    <state x="518" y="409" key="com.intellij.ide.util.TipDialog" timestamp="1606961743829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="518" y="409" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606961743829" />
+    <state x="748" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606961419700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="531" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606961419700" />
+    <state x="565" y="335" key="git4idea.merge.GitPullDialog" timestamp="1606961249919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="335" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606961249919" />
+    <state x="877" y="381" key="svn.repositoryBrowser" timestamp="1606963605214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="877" y="381" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1606963605214" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/apiFrame$public.coverage" NAME="public Coverage Results" MODIFIED="1606876966606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/apiFrame$test_002.coverage" NAME="test_002 Coverage Results" MODIFIED="1606735639986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../api/tests" />
+    <SUITE FILE_PATH="coverage/apiFrame$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1606705781997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/apiFrame$aes.coverage" NAME="aes Coverage Results" MODIFIED="1606699026471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/apiFrame$test_001.coverage" NAME="test_001 Coverage Results" MODIFIED="1606812564036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../api/tests" />
+    <SUITE FILE_PATH="coverage/apiFrame$loginYaml__1_.coverage" NAME="loginYaml (1) Coverage Results" MODIFIED="1606464528502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/apiFrame$userManagementYaml.coverage" NAME="userManagementYaml Coverage Results" MODIFIED="1606717710946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/apiFrame$loginYaml.coverage" NAME="loginYaml Coverage Results" MODIFIED="1606719656016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/apiFrame$alltest.coverage" NAME="alltest Coverage Results" MODIFIED="1606878404678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apiFrame$operationYaml.coverage" NAME="operationYaml Coverage Results" MODIFIED="1606464455820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/apiFrame$test_001_login__1_.coverage" NAME="test_001_login (1) Coverage Results" MODIFIED="1606735855765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/apiFrame$aes_encryption__1_.coverage" NAME="aes_encryption (1) Coverage Results" MODIFIED="1606700891568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/apiFrame$test_002_userManagement.coverage" NAME="test_002_userManagement Coverage Results" MODIFIED="1606725793472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/apiFrame$my.coverage" NAME="my Coverage Results" MODIFIED="1606801569429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../api/base" />
+    <SUITE FILE_PATH="coverage/apiFrame$all.coverage" NAME="all Coverage Results" MODIFIED="1606813933184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../api" />
+    <SUITE FILE_PATH="coverage/apiFrame$all__1_.coverage" NAME="all (1) Coverage Results" MODIFIED="1606901423540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

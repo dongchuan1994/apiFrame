@@ -1,0 +1,18 @@
+[
+  "tests/test_login.py::test_login_001[datas0]",
+  "tests/test_login.py::test_login_001[datas1]",
+  "tests/test_login.py::test_login_001[datas2]",
+  "tests/test_login.py::test_login[datas0]",
+  "tests/test_login.py::test_login[datas1]",
+  "tests/test_login.py::test_login[datas2]",
+  "tests/test_001_login.py::test_001_SSOLogin[datas0]",
+  "tests/test_001_login.py::test_001_SSOLogin[datas1]",
+  "tests/test_001_login.py::test_001_SSOLogin[datas2]",
+  "tests/test_001_login.py::test_002_GetAppList",
+  "tests/test_002_userManagement.py::test_001_addTeacher[datas0]",
+  "tests/test_002_userManagement.py::test_001_addTeacher[datas1]",
+  "tests/test_002_userManagement.py::test_001_addTeacher[datas2]",
+  "tests/test_002_userManagement.py::test_002_findTeacher[datas0]",
+  "tests/test_002_userManagement.py::test_003_updateTeacher[datas0]",
+  "tests/test_002_userManagement.py::test_004_deleteTeacher[datas0]"
+]

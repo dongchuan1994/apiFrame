@@ -1,0 +1,35 @@
+casename: 编辑教师信息
+url: /service/stf/RefreshStaffInfo
+method: post
+data:
+  version: "2.0"
+  data:
+    Uid:
+    Icard: "999001"
+    Name: "dd1"
+    Sex: "1"
+    Birthday:
+    PhoneNum:
+    Types: [{"Type": 1}]
+    IDCard:
+    OrganID:
+    InstitutionID:
+    IPCard:
+    Status: A
+    Enable: "1"
+    SaffType: "1"
+    DeadLine:
+    RefreshType: "2"
+    ImgName:
+    ImgBase64:
+  token:
+  orgcode: "865100000001"
+  Operation:
+    UserID: admin
+    UserName: admin
+    UserType: "0"
+    OpType: 编辑
+    OpRemark: 编辑
+expect:
+  result: true
+  message: ""

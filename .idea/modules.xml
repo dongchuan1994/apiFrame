@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../api/.idea/api.iml" filepath="$PROJECT_DIR$/../api/.idea/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../api2/.idea/api2.iml" filepath="$PROJECT_DIR$/../api2/.idea/api2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/apiFrame.iml" filepath="$PROJECT_DIR$/.idea/apiFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apiFrame1/.idea/apiFrame1.iml" filepath="$PROJECT_DIR$/../apiFrame1/.idea/apiFrame1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test2/.idea/test2.iml" filepath="$PROJECT_DIR$/../test2/.idea/test2.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+{
+  "test_002_userManagement.py::test_001_addTeacher[datas3]": true,
+  "test_addbook.py::test_addbook_001[datas0]": true,
+  "test_addbook.py::test_addbook_001[datas1]": true
+}

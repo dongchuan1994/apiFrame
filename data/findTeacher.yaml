@@ -1,0 +1,26 @@
+
+casename: 查询添加的教师信息
+url: /service/stf/GetStaffInfo
+method: post
+data:
+  version: "2.0"
+  data:
+    Sex: ""
+    IFPhoto: 0
+    Selections: "99900"
+    Type: 1
+    BirthdayStart: ""
+    BirthdayEnd: ""
+    Pagesize: 20
+    PageNum: 1
+  token:
+  orgcode: "865100000001"
+  Operation:
+    UserID: admin
+    UserName: admin
+    UserType: "0"
+    OpType: 查询
+    OpRemark: 查询
+expect:
+  result: true
+  message: None

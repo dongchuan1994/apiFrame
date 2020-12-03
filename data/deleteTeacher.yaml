@@ -1,0 +1,18 @@
+casename: 删除教师信息
+url: /service/stf/DelStaffsInfo
+method: post
+data:
+  version: "2.0"
+  data:
+    Statu_Params: []#{"Uid":"","Status":"D"}
+  token:
+  orgcode: "865100000001"
+  Operation:
+    UserID: admin
+    UserName: admin
+    UserType: "0"
+    OpType: 删除
+    OpRemark: 删除
+expect:
+  result: true
+  message: ""
