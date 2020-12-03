@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e006c475-1cec-47db-b42a-91f685103dd1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all.py" beforeDir="false" afterPath="$PROJECT_DIR$/all.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +192,7 @@
       <updated>1606268891262</updated>
       <workItem from="1606268893749" duration="851000" />
       <workItem from="1606463157189" duration="67581000" />
-      <workItem from="1606961738561" duration="2946000" />
+      <workItem from="1606961738561" duration="3196000" />
     </task>
     <task id="LOCAL-00001" summary="pycharm">
       <created>1606900090643</created>
@@ -277,7 +278,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606964740115</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="pycharm">
+      <created>1606964962143</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606964962143</updated>
+    </task>
+    <task id="LOCAL-00014" summary="pycharm">
+      <created>1606965099789</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606965099789</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,10 +315,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="670" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606803675896" />
-    <state x="648" y="148" key="CommitChangelistDialog2" timestamp="1606964957140">
+    <state x="648" y="148" key="CommitChangelistDialog2" timestamp="1606965086126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="648" y="148" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606964957140" />
+    <state x="648" y="148" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606965086126" />
     <state x="260" y="133" key="DiffContextDialog" timestamp="1606963860728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -344,10 +359,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="456" y="258" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606959527756" />
-    <state x="457" y="269" key="Vcs.Push.Dialog.v2" timestamp="1606964621047">
+    <state x="457" y="269" key="Vcs.Push.Dialog.v2" timestamp="1606965097818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="457" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606964621047" />
+    <state x="457" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606965097818" />
     <state x="518" y="409" key="com.intellij.ide.util.TipDialog" timestamp="1606961743829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
