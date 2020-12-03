@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e006c475-1cec-47db-b42a-91f685103dd1" name="Default Changelist" comment="" />
+    <list default="true" id="e006c475-1cec-47db-b42a-91f685103dd1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -189,7 +191,7 @@
       <updated>1606268891262</updated>
       <workItem from="1606268893749" duration="851000" />
       <workItem from="1606463157189" duration="67581000" />
-      <workItem from="1606961738561" duration="2651000" />
+      <workItem from="1606961738561" duration="2946000" />
     </task>
     <task id="LOCAL-00001" summary="pycharm">
       <created>1606900090643</created>
@@ -268,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606964205841</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="pycharm">
+      <created>1606964740115</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606964740115</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,26 +300,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="670" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606803675896" />
-    <state x="648" y="148" key="CommitChangelistDialog2" timestamp="1606964202417">
+    <state x="648" y="148" key="CommitChangelistDialog2" timestamp="1606964957140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="648" y="148" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606964202417" />
+    <state x="648" y="148" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606964957140" />
     <state x="260" y="133" key="DiffContextDialog" timestamp="1606963860728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="133" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606963860728" />
-    <state x="475" y="318" width="443" height="470" key="FileChooserDialogImpl" timestamp="1606964681699">
+    <state x="475" y="318" width="443" height="470" key="FileChooserDialogImpl" timestamp="1606964983229">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="475" y="318" width="443" height="470" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606964681699" />
+    <state x="475" y="318" width="443" height="470" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606964983229" />
     <state x="919" y="490" width="373" height="171" key="Github.CreateGistDialog" timestamp="1606960670078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="919" y="490" width="373" height="171" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606960670078" />
-    <state x="619" y="279" width="581" height="208" key="Github.ShareDialog" timestamp="1606964534359">
+    <state x="619" y="279" width="581" height="208" key="Github.ShareDialog" timestamp="1606965003670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="619" y="279" width="581" height="208" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606964534359" />
+    <state x="619" y="279" width="581" height="208" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606965003670" />
     <state x="911" y="295" key="Github.UntrackedFilesDialog" timestamp="1606964552505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
